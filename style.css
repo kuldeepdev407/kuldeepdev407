@@ -73,6 +73,14 @@ nav{
     align-items: center;
 }
 
+.danger-banner{
+    padding:10px 20px;
+    background-color: #ff000090;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+
 /* Mobile settings */
 @media only screen and (max-width: 600px) {
     h1{
